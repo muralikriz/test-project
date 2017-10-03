@@ -1,0 +1,3 @@
+As you can see, merging is quite simple. With the git merge <branch to merge>
+command, you can merge all the modifications in a branch into the actual branch as
+shown in the following screenshot:
