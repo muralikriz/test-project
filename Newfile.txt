@@ -1,0 +1,18 @@
+
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/vg_root-lv_root
+                      2.0G  1.3G  540M  71% /
+tmpfs                 7.8G     0  7.8G   0% /dev/shm
+/dev/sda1             120M   84M   31M  74% /boot
+/dev/mapper/vg_root-lv_data01
+                      184G   16G  159G  10% /data01
+/dev/mapper/vg_root-lv_tmp
+                      2.0G  111M  1.7G   6% /tmp
+/dev/mapper/vg_root-lv_usr
+                      6.9G  3.4G  3.1G  53% /usr
+/dev/mapper/vg_root-lv_var
+                      4.9G  3.3G  1.4G  71% /var
+/dev/mapper/vg_root-lv_data02
+                      300G   40G  245G  14% /data02
+/dev/mapper/vg_root-lv_data03
+                      266G   97G  156G  39% /data03
