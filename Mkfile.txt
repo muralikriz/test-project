@@ -1,0 +1,6 @@
+This is sample DOC file im adding here in web interface.
+This line im adding in local repo master branch.
+
+@ Linux dc2owoodbpd04.it.savvis.net 2.6.32-642.3.1.el6.x86_64 #1 SMP Sun Jun 26 18:16:44 EDT 2016 x86_64 x86_64 x86_64 GNU/Linux
+
+uid=7693(msolayap) gid=1304(ossdevel2) groups=1304(ossdevel2),1013(swdevel2)
