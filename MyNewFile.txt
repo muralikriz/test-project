@@ -4,3 +4,51 @@ Linux dc2owoodbpd04.it.savvis.net 2.6.32-642.3.1.el6.x86_64 #1 SMP Sun Jun 26 18
 
 
 dc2owoodbpd04.it.savvis.net
+
+
+@Thu Oct 12 07:20:36 UTC 2017
+
+
+MemTotal:       16329908 kB
+MemFree:          183452 kB
+Buffers:          191456 kB
+Cached:         14679936 kB
+SwapCached:        21824 kB
+Active:         10111876 kB
+Inactive:        5351268 kB
+Active(anon):    6334652 kB
+Inactive(anon):  1449120 kB
+Active(file):    3777224 kB
+Inactive(file):  3902148 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:      16777208 kB
+SwapFree:       16348836 kB
+Dirty:               308 kB
+Writeback:             0 kB
+AnonPages:        581820 kB
+Mapped:          7158224 kB
+Shmem:           7192008 kB
+Slab:             431348 kB
+SReclaimable:     391236 kB
+SUnreclaim:        40112 kB
+KernelStack:        5216 kB
+PageTables:       105576 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    24942160 kB
+Committed_AS:   10306664 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:      191824 kB
+VmallocChunk:   34359532116 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:    229376 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:       10240 kB
+DirectMap2M:    16766976 kB
+
